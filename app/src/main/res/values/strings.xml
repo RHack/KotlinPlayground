@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">KotlinPlayground</string>
+
+    <string name="dice_button">Dice</string>
+    <string name="d100">1d100</string>
+    <string name="d20">1d20</string>
+    <string name="d12">1d12</string>
+    <string name="d10">1d10</string>
+    <string name="d8">1d8</string>
+    <string name="d6">1d6</string>
+    <string name="d4">1d4</string>
+    <string name="roll_result"></string>
+    <string name="attack_text">1d20 + </string>
+    <string name="attack_modifier">Modifier</string>
+    <string name="attack_button">Attack</string>
+    <string name="damage_text"></string>
+    <string name="dice_multiplier">1</string>
+    <string name="d">d</string>
+    <string name="plus">+</string>
+    <string name="damage_modifier">Modifier</string>
+    <string name="damage_button">Damage</string>
+
+    <string-array name="damage_dice">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="name_heading">NAME</string>
+    <string name="name_value"></string>
+    <string name="race_heading">RACE</string>
+    <string name="race_value"></string>
+    <string name="class_heading">CLASS</string>
+    <string name="class_value"></string>
+    <string name="constitution_stat">CON</string>
+    <string name="constitution_value">0</string>
+    <string name="strength_stat">STR</string>
+    <string name="strength_value">0</string>
+    <string name="dexterity_stat">DEX</string>
+    <string name="dexterity_value">0</string>
+    <string name="intelligence_stat">INT</string>
+    <string name="intelligence_value">0</string>
+    <string name="wisdom_stat">WIS</string>
+    <string name="wisdom_value">0</string>
+    <string name="charisma_stat">CHA</string>
+    <string name="charisma_value">0</string>
+</resources>
